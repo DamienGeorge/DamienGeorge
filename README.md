@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .Net Developer / C# Developer | LIMS Solution Architect
 -------------------------------------------------------
 
-I'm a .Net developer who loves to work on different challenges.* 🌍  I'm based in Manchester* ✉️  You can contact me at [daneipegeorge@gmail.com](mailto:daneipegeorge@gmail.com)* 🧠  I'm learning .Net 6 and Azure fundamentals* 🤝  I'm open to collaborating on Blazor Server and .Net projects.
+I'm a .Net developer who loves to work on different challenges.
+
+* 🌍  I'm based in Manchester
+* ✉️  You can contact me at [daneipegeorge@gmail.com](mailto:daneipegeorge@gmail.com)
+* 🧠  I'm learning .Net 6 and Azure fundamentals
+* 🤝  I'm open to collaborating on Blazor Server and .Net projects.
 
 <a href="https://www.github.com/DamienGeorge" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DamienGeorge?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
