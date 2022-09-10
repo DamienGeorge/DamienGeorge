@@ -11,8 +11,8 @@ I'm a .Net developer who loves to work on different challenges.
 * 🧠  I'm learning .Net 6 and Azure fundamentals
 * 🤝  I'm open to collaborating on Blazor Server and .Net projects.
 
--<a href="https://www.github.com/DamienGeorge" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/DamienGeorge?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>-
+<!--<a href="https://www.github.com/DamienGeorge" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DamienGeorge?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>-->
 
 ### Skills
 
