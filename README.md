@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a .Net developer who loves to work on different challenges.
 
-* 🌍  I'm based in Manchester
+* 🌍  I'm based in UK
 * ✉️  You can contact me at [daneipegeorge@gmail.com](mailto:daneipegeorge@gmail.com)
 * 🧠  I'm learning .Net 6 and Azure fundamentals
 * 🤝  I'm open to collaborating on Blazor Server and .Net projects.
