@@ -8,8 +8,8 @@ I'm a .Net developer who loves to work on different challenges.
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [daneipegeorge@gmail.com](mailto:daneipegeorge@gmail.com)
-* 🧠  I'm learning .Net 6 and Azure fundamentals
-* 🤝  I'm open to collaborating on Blazor Server and .Net projects.
+* 🧠  I'm learning .Net 9, System Design and AI fundamentals
+* 🤝  I'm open to collaborating on web, mobile or desktop apps.
 
 <!--<a href="https://www.github.com/DamienGeorge" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DamienGeorge?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>-->
